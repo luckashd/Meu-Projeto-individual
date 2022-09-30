@@ -1,0 +1,72 @@
+body{
+    font-family: 'Nabla', cursive;
+    font-family: 'Rubik Marker Hatch', cursive;
+    color:aquamarine;
+    width: 100%;
+    background-color: black;
+
+
+}
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:aliceblue;
+}
+h2{
+    font-family:'Times New Roman', Times, serif;
+    color:aliceblue;
+}
+ul li{
+    display:flex;
+   list-style: none;
+   display: inline-block;
+   color:black;
+   font-weight: bolder;
+   text-align: center;
+   vertical-align: middle;
+   background-color:aqua;
+   padding: 0.6em;
+    border-radius: 5px;
+    position: center;
+    transform: translate(200%,50%);
+    left: 50px;
+    font-size: 1.2em;
+    margin-bottom: 0.2em;
+    margin-right: 150px;
+   
+    
+}
+section{
+    display:inline;
+    list-style: none;
+    display: inline-block;
+    color:black;
+    font-weight: bolder;
+    text-align: center;
+    vertical-align: middle;
+    background-color:aqua;
+    padding: 0.6em;
+    border-radius: 5px;
+    position: center;
+    transform: translate(200%,50%);
+    left: 50px;
+    font-size: 1.2em;
+    margin-bottom: 0.2em;
+    margin-right: 150px;  
+ 
+}
+.logo{
+    color: black;
+    background-color: cadetblue;
+}
+.redes{
+    position: center;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    margin-top: 200px;
+    margin-bottom: 0.6em;
+}
+a:hover {
+    background-color:brown;
+  }
+    
